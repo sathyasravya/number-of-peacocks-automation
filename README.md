@@ -1,7 +1,7 @@
 # number-of-peacocks-automation
 The number of peacocks present in a given audio clip is being identified, Model's accuracy has been improved using 
 
-  1.Different structure having Multiple task Learning done.
+  1.Different structure of MLP having Multiple task Learning done.
 	
   2.Using Different loss functions and accuracy metrics. 
 	
